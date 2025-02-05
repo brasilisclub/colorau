@@ -43,3 +43,6 @@ luac.out
 /lua
 /lua_modules
 /.luarocks
+
+# For local usage
+wip.lua
